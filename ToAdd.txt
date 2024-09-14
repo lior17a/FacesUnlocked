@@ -1,25 +1,72 @@
 origins - 
-Astarion
-Laezel
-Gale
-Shadowheart
-Wyll
-Karlach
+Astarion - ELF_M_NKD_Head_Astarion
+Laezel - GTY_F_NKD_Head_Laezel
+Gale - HUM_M_NKD_Head_Gale
+Shadowheart - HEL_F_NKD_Head_Shadowheart
+Wyll - HUM_M_NKD_Head_Wyll
 
 Compnions - 
-Jaheria
-Minthara
-Halsin
+Jaheria - HEL_F_NKD_Head_Jaheira
+Minthara - ELF_F_NKD_Head_Minthara
+Minsc - HUM_MS_NKD_Head_Minsc
+Halsin - ELF_MS_NKD_Head_Halsin
+
 
 Other- 
-Isobel
-Aylin
-Orin
-Gortash
-Ketheric
-Netti
-Kahga
-Zevlor
-Mizora
-Floric
+Isobel - HEL_F_NKD_Head_Isobel
+Aylin - HUM_FS_NKD_Head_Nightsong
+Orin - HUM_F_NKD_Head_Orin
+Gortash -HUM_M_Head_Gortash
+Ketheric - HEL_M_NKD_Head_Ketheric
+Rafael - HUM_M_NKD_Head_Raphael
+Mizora - HUM_F_NKD_Head_Mizora
+Rolan - TIF_M_NKD_Head_Rolan
+Zevlor - TIF_M_NKD_Head_Zevlor
+Netti - DWR_F_NKD_Head_Nettie
+Voss - GTY_M_NKD_Head_Kithrak_Voss
+Voss Damaged - GTY_M_NKD_Head_Kithrak_Voss_Scarred
+Vlakid - GTY_F_NKD_Head_Vlaakith
+Orpheus - GTY_M_NKD_Head_Orpheus
+Deva - c6f5c5ad-606f-51f7-89a1-509aa1bab962
+Barcus - GNO_M_NKD_Elder_Head_A (they mixed the namesXDDDD)
+Wulbern - GNO_M_NKD_Head_Wulbren_Bongle
+Elder - GNO_M_NKD_Head_Barcus_Wroot
 
+Not done - 
+Karlach -TIF_FS_NKD_Head_Karlach
+		TIF_FS_NKD_Head_Karlach_Scar
+
+
+Kahga - ELF_F_NKD_Head_Kagha
+Florrk - ELF_F_NKD_Head_Florrick
+Viconia - ELF_F_NKD_Head_Viconia
+Emmeline - HUM_F_NKD_Head_Emmeline
+Keene - HUM_F_NKD_Head_Keene
+Mayrina - HUM_F_NKD_Head_Mayrina
+Abdirak - HUM_M_NKD_Head_Abdirak
+Larroakan - HUM_M_NKD_Head_Lorroakan
+
+DWR_F_NKD_Head_Elder_A
+ELF_M_NKD_Head_Arnell
+ELF_M_NKD_Head_Cazador
+
+GOB__CHD (goblin children)
+GTY_M_NKD_Elder_Head_A
+GTY_M_NKD_Head_Templar
+HEL_F_NKD_Elder_Head_A
+HEL_CHD_NKD_Head_Shadowheart
+HFL_F_NKD_Elder_Head_A
+HFL_M_NKD_Elder_Head_A
+HUM_F_NKD_Elder_Head_A
+HUM_F_NKD_Elder_Head_B
+HUM_F_NKD_Head_Nightsong_OLD
+HUM_M_NKD_Head_Aradin
+HUM_M_NKD_Head_Dribbles
+HUM_M_NKD_Head_Elminster
+HUM_M_NKD_Head_Gale_NoTattoo
+HUM_M_NKD_Head_Oscar
+HUM_M_NKD_Head_Rath
+HUM_M_NKD_Head_Ravengard
+HUM_M_NKD_Head_Volo
+HUM_MS_NKD_Head_Sarevok
+HUM_FS_NKD_Head_Ringmaster
