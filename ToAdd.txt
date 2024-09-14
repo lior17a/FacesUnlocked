@@ -15,7 +15,7 @@ Halsin - ELF_MS_NKD_Head_Halsin
 Other- 
 Isobel - HEL_F_NKD_Head_Isobel
 Aylin - HUM_FS_NKD_Head_Nightsong
-Orin - HUM_F_NKD_Head_Orin
+
 Gortash -HUM_M_Head_Gortash
 Ketheric - HEL_M_NKD_Head_Ketheric
 Rafael - HUM_M_NKD_Head_Raphael
@@ -36,7 +36,7 @@ Not done -
 Karlach -TIF_FS_NKD_Head_Karlach
 		TIF_FS_NKD_Head_Karlach_Scar
 
-
+Orin - HUM_F_NKD_Head_Orin
 Kahga - ELF_F_NKD_Head_Kagha
 Florrk - ELF_F_NKD_Head_Florrick
 Viconia - ELF_F_NKD_Head_Viconia
@@ -70,3 +70,4 @@ HUM_M_NKD_Head_Ravengard
 HUM_M_NKD_Head_Volo
 HUM_MS_NKD_Head_Sarevok
 HUM_FS_NKD_Head_Ringmaster
+Lakrisa??

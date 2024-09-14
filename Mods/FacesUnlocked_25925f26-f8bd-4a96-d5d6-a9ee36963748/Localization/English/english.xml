@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hc80c969bg7f98g8bf7g51d2g33fa2a5addcd" version="1">Astarion</content>
+  <content contentuid="h3fdc9360g48cdg773cg4764gbb5aba1163b4" version="1">Astarion</content>
+  <content contentuid="h5b21559eg619dg49c4gd679g52480ab49cd8" version="1">Astarion</content>
+  <content contentuid="h9b80b365g576bg42ebg91bbgf3977f184685" version="1">Astarion</content>
+  <content contentuid="h4656b66eg47cega734gd615gce8ccc186773" version="1">Astarion</content>
+  <content contentuid="h71842373g4a47ga9f9gd7d5g84675a1e1f08" version="1">Laezel</content>
+  <content contentuid="hfff669e9g55b4g5b61ga7b8ga4a968920ebd" version="1">Karlach</content>
+  <content contentuid="h2f3a0aadg3329gb6e2g47bdg88f0688b1f52" version="1">Karlach</content>
+  <content contentuid="h04ca366age3f6geec0g09a0g1e68e47cd92a" version="1">Gale</content>
+  <content contentuid="h642d1fd2g0408g5d8egefe6g574741715b9e" version="1">Gale</content>
+  <content contentuid="h43ef29dbg20c1ge17dgb09agfa9fd6ee52a2" version="1">Shadowheart</content>
+  <content contentuid="hb4ad677dg5949gd567ged55g72a4417fcfaf" version="1">Shadowheart</content>
+  <content contentuid="h63469a5dge521g36a8g79ffg0f60b6d01871" version="1">Shadowheart</content>
+  <content contentuid="h2a962abegc943g5fafgeb39gbc0f9dc4dff3" version="1">Wyll</content>
+  <content contentuid="h35f1b38eg2e6agdfcdg8ae9g5a4711bccd9c" version="1">Jaheira</content>
+  <content contentuid="haa68eb1cgb985g9aeagd173g955faba0dc0a" version="1">Jaheira</content>
+  <content contentuid="h10153fcdg136bg11eeg7cf5gdf77a57221bc" version="1">Jaheira</content>
+  <content contentuid="h4bf63244g9890g28ffgfc53g1a342b6a4892" version="1">Minthara</content>
+  <content contentuid="h737f6bebge925g82dcg0e4fg21acf8e2df0f" version="1">Minthara</content>
+  <content contentuid="h0df40d23ge8dcgb1f3g26f8g74ff96a93a4f" version="1">Minthara</content>
+  <content contentuid="hfdc36a1bgf831g188eg795eg1fcf2c3d3741" version="1">Halsin</content>
+  <content contentuid="hc996e276g9fc1g0a3cg9b53g36e37bc68516" version="1">Halsin</content>
+  <content contentuid="haf8dbfe3g60efg4b77g7ff5g93e11db48b74" version="1">Halsin</content>
+  <content contentuid="h0add5eafgc68fgd062ga518g780d30a59a72" version="1">Minsc</content>
+  <content contentuid="h7809eafbga81egf7e8gbdf1gd5b024c8c7c0" version="1">Isoble</content>
+  <content contentuid="h5d2fc7ffg5522g191eg1551ge65caf33e16d" version="1">Isoble</content>
+  <content contentuid="h0b0b5b90g17c5g5d67g0861gcdef44208487" version="1">Isoble</content>
+  <content contentuid="h93a3fe22gc5ecgab67g7562gdf18e92d9e91" version="1">Aylin</content>
+  <content contentuid="h2eaef2e6g0516g2aa3gd56bgc7855c6d5d89" version="1">Halsin</content>
+  <content contentuid="h50da201dga870g98ffg27bage8203a95114e" version="1">Halsin</content>
+  <content contentuid="he6f367c2g7f73ge49eg1e7egf97f55003907" version="1">Halsin</content>
+  <content contentuid="h08291571gfc08g1237g7ceaga6ec603d90c2" version="1">Orin</content>
+  <content contentuid="h94c9e4d5g91ebg5952g6575ga4a8eb8f32ce" version="1">Gortash</content>
+  <content contentuid="h92237a8bg1742gebecgf89egf963e43d9675" version="1">Ketheric</content>
+  <content contentuid="hdc1187a7gc41ag2847gd781g6f5ff29d88aa" version="1">Ketheric</content>
+  <content contentuid="hade46408g16edga1fdg602fg46b0211d5daf" version="1">Ketheric</content>
+  <content contentuid="h0b9861d9ge90cgd511gb2cdg68fc47817bdb" version="1">Rafael</content>
+  <content contentuid="hbea92ae1g8e09gc274ga8eag6d1d23e23175" version="1">Mizora</content>
+  <content contentuid="hae3ba5e4gf2c4gcb88g19b8gc80c2b30d1e0" version="1">Rolan</content>
+  <content contentuid="h37604698g3dd4g013eg14dfgf5c777ced76e" version="1">Karlach</content>
+  <content contentuid="h060c9c8bg2a8ag5c73g2ba1g7ae33eddba52" version="1">Karlach Scars</content>
+  <content contentuid="h876d75bbg65e6g152agb60ag57a643d6fb7e" version="1">Zevlor</content>
+  <content contentuid="h51cd3e89g0fbcgdd18g85fdgf62cf5dcc7b8" version="1">Netti</content>
+  <content contentuid="h7372dd9ag2ff8gf9d6g4b9ag77a854f7ffb9" version="1">Voss Scars</content>
+  <content contentuid="heff9e648gb8e2g5cd2g979fgbe896e9ddb1d" version="1">Voss</content>
+  <content contentuid="hf8d14dbdg5749g981bge134g3dc065987cf4" version="1">Vlakid</content>
+  <content contentuid="hdfb545e8g9730g1482g8315g1408029710d0" version="1">Orpheus</content>
+  <content contentuid="h1f4602edg8d6bg723dgbe83gb5a4beea17ae" version="1">Deva</content>
+  <content contentuid="h7bf4fb89g6376gca5bge86bgfe3a8cd24686" version="1">Barcus</content>
+  <content contentuid="h2d7de597g565eg1a47g54bcg95fa40802c96" version="1">Wulbern</content>
+  <content contentuid="heebc58e8g55cfg07a2g43bcg0a1c1556c6eb" version="1">Elder</content>
+  <content contentuid="h7478d80ag9a1bg89e8gd217g44e2f84bac8f" version="2">Astarion</content>
+  <content contentuid="h65a9184cgc731g179bg97bbgf9e18dcf089e" version="2">Astarion</content>
+  <content contentuid="he8500e69g6ebcg008eg52e1g8ef23fdbed8c" version="2">Astarion </content>
+  <content contentuid="hb38343f2g25fdg2829gc09dg0dacac56124f" version="2">Ketheric</content>
+  <content contentuid="h92bb38c0g6e8bg05dcgc394g00145ad4d562" version="2">Ketheric</content>
+  <content contentuid="hbee834f8ge76cg38b9g198eg37df33fbd5be" version="2">Ketheric</content>
+  <content contentuid="h5cf05888g2a67g0268ga6f2g8f5f0b431896" version="2">Jaheira</content>
+  <content contentuid="he30245bfgb34ag58d8g120egf32fd9efecdb" version="2">Jaheira</content>
+  <content contentuid="h5a566031g7404g79bbgf940g00336351a31e" version="2">Jaheira</content>
+</contentList>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="25925f26-f8bd-4a96-d5d6-a9ee36963748"/>
+            <attribute id="Name" type="LSString" value="FacesUnlocked"/>
+            <attribute id="UUID" type="LSString" value="75d88de8-0879-4be6-b531-d315f9adfa26"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
