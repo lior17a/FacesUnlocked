@@ -251,5 +251,65 @@
         <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="135a68d6-f2a3-41c0-9e51-ce4a3f4358e7" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Aradin" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="02e44f76-39bb-576b-fb31-aae7316b7879" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_26" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bda95434-83b8-400e-ad07-8f30242f54fa" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Nine Fingers" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="93752ed2-dd32-4151-de83-55de109727c8" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_27" />
+        <field name="UUID" type="IdTableFieldDefinition" value="69cb5d8e-fcac-4f08-a024-5bab801438c9" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Cazador" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="4ab6332c-871e-5a41-66bd-17c282c765f6" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_28" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ef184aab-f6c4-48e6-8a2e-a02a350f75a5" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Kagha" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="80481941-ae0c-03f2-5db0-255c65c4fed4" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_29" />
+        <field name="UUID" type="IdTableFieldDefinition" value="90ffeb2c-b70b-4f3f-9634-3a50f059dbf4" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Nightsong Old" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="cbbd4a4b-cd1a-1b19-cf93-3f6347e0d7d4" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_30" />
+        <field name="UUID" type="IdTableFieldDefinition" value="070ce2f7-8399-4d6f-966b-dd9644489929" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Orin" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="889d4c2f-aac7-c7ec-ff06-90176a9568a5" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
