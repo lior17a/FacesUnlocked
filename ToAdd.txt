@@ -10,7 +10,7 @@ Jaheria - HEL_F_NKD_Head_Jaheira
 Minthara - ELF_F_NKD_Head_Minthara
 Minsc - HUM_MS_NKD_Head_Minsc
 Halsin - ELF_MS_NKD_Head_Halsin
-
+Karlach -TIF_FS_NKD_Head_Karlach
 
 Other- 
 Isobel - HEL_F_NKD_Head_Isobel
@@ -36,7 +36,6 @@ Cazador - ELF_M_NKD_Head_Cazador
 Kahga - ELF_F_NKD_Head_Kagha
 HUM_F_NKD_Head_Nightsong_OLD
 Orin - HUM_F_NKD_Head_Orin
-
 Hoots/Mortash - HUM_FS_NKD_Head_A
 Lucritios - HUM_FS_NKD_Head_Ringmaster
 Sarevok - HUM_MS_NKD_Head_Sarevok
@@ -44,13 +43,13 @@ Volo - HUM_M_NKD_Head_Volo
 Dribbles - HUM_M_NKD_Head_Dribbles
 GTY_M_NKD_Head_Templar
 DWR_F_NKD_Head_Elder_A
-Karlach -TIF_FS_NKD_Head_Karlach
-		TIF_FS_NKD_Head_Karlach_Scar
+
+	
 
 
 Not done - 
-
-Florrk - ELF_F_NKD_Head_Florrick
+Karlach with big scar - TIF_FS_NKD_Head_Karlach_Scar
+Florrick - ELF_F_NKD_Head_Florrick
 Viconia - ELF_F_NKD_Head_Viconia
 Emmeline - HUM_F_NKD_Head_Emmeline
 
