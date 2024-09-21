@@ -30,7 +30,6 @@ Deva - c6f5c5ad-606f-51f7-89a1-509aa1bab962
 Barcus - GNO_M_NKD_Elder_Head_A (they mixed the namesXDDDD)
 Wulbern - GNO_M_NKD_Head_Wulbren_Bongle
 Elder - GNO_M_NKD_Head_Barcus_Wroot
-
 Aradin - HUM_M_NKD_Head_Aradin
 Keene - HUM_F_NKD_Head_Keene
 Cazador - ELF_M_NKD_Head_Cazador
@@ -38,13 +37,18 @@ Kahga - ELF_F_NKD_Head_Kagha
 HUM_F_NKD_Head_Nightsong_OLD
 Orin - HUM_F_NKD_Head_Orin
 
-
-
-Not done - 
+Hoots/Mortash - HUM_FS_NKD_Head_A
+Lucritios - HUM_FS_NKD_Head_Ringmaster
+Sarevok - HUM_MS_NKD_Head_Sarevok
+Volo - HUM_M_NKD_Head_Volo
+Dribbles - HUM_M_NKD_Head_Dribbles
+GTY_M_NKD_Head_Templar
+DWR_F_NKD_Head_Elder_A
 Karlach -TIF_FS_NKD_Head_Karlach
 		TIF_FS_NKD_Head_Karlach_Scar
 
 
+Not done - 
 
 Florrk - ELF_F_NKD_Head_Florrick
 Viconia - ELF_F_NKD_Head_Viconia
@@ -54,27 +58,20 @@ Mayrina - HUM_F_NKD_Head_Mayrina
 Abdirak - HUM_M_NKD_Head_Abdirak
 Larroakan - HUM_M_NKD_Head_Lorroakan
 
-DWR_F_NKD_Head_Elder_A
+
 ELF_M_NKD_Head_Arnell
-
-
-GOB__CHD (goblin children)
 GTY_M_NKD_Elder_Head_A
-GTY_M_NKD_Head_Templar
 HEL_F_NKD_Elder_Head_A
-HEL_CHD_NKD_Head_Shadowheart
 HFL_F_NKD_Elder_Head_A
 HFL_M_NKD_Elder_Head_A
 HUM_F_NKD_Elder_Head_A
 HUM_F_NKD_Elder_Head_B
 
-HUM_M_NKD_Head_Dribbles
 HUM_M_NKD_Head_Elminster
-
 HUM_M_NKD_Head_Oscar
 HUM_M_NKD_Head_Rath
 HUM_M_NKD_Head_Ravengard
-HUM_M_NKD_Head_Volo
-HUM_MS_NKD_Head_Sarevok
-HUM_FS_NKD_Head_Ringmaster
-Lakrisa??
+
+Maybe fit for smaller races - 
+GOB__CHD (goblin children)
+HEL_CHD_NKD_Head_Shadowheart
