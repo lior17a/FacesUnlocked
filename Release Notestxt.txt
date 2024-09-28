@@ -1,0 +1,6 @@
+Release notes 
+Fixed old nightsongs texture to match the rest of her body 
+Mayrina, Abdirak, Larroakan, Florrick
+Added support for WOTD Assimar race - All faces for humans/elves/half-elves/drow will now be available when choosing the assimar race 
+dribbles halsin
+aylin?

@@ -43,34 +43,50 @@ Volo - HUM_M_NKD_Head_Volo
 Dribbles - HUM_M_NKD_Head_Dribbles
 GTY_M_NKD_Head_Templar
 DWR_F_NKD_Head_Elder_A
-
-	
-
-
-Not done - 
-Karlach with big scar - TIF_FS_NKD_Head_Karlach_Scar
-Florrick - ELF_F_NKD_Head_Florrick
-Viconia - ELF_F_NKD_Head_Viconia
+Arnell - ELF_M_NKD_Head_Arnell
 Emmeline - HUM_F_NKD_Head_Emmeline
-
-Mayrina - HUM_F_NKD_Head_Mayrina
-Abdirak - HUM_M_NKD_Head_Abdirak
-Larroakan - HUM_M_NKD_Head_Lorroakan
-
-
-ELF_M_NKD_Head_Arnell
-GTY_M_NKD_Elder_Head_A
-HEL_F_NKD_Elder_Head_A
 HFL_F_NKD_Elder_Head_A
 HFL_M_NKD_Elder_Head_A
 HUM_F_NKD_Elder_Head_A
 HUM_F_NKD_Elder_Head_B
-
-HUM_M_NKD_Head_Elminster
+HUM_M_NKD_Elder_Head_A
+HUM_M_NKD_Elder_Head_B
+Mayrina - HUM_F_NKD_Head_Mayrina
+Abdirak - HUM_M_NKD_Head_Abdirak
+Larroakan - HUM_M_NKD_Head_Lorroakan
+Florrick - ELF_F_NKD_Head_Florrick
+	
+Working on - 
+Viconia - ELF_F_NKD_Head_Viconia
+GTY_M_NKD_Elder_Head_A
 HUM_M_NKD_Head_Oscar
 HUM_M_NKD_Head_Rath
+
+
+Not done - 
+Karlach with big scar - TIF_FS_NKD_Head_Karlach_Scar
+
+
+
+
+
+HUM_M_NKD_Head_Elminster
 HUM_M_NKD_Head_Ravengard
+Harpy_head_a1
+Herpy_Head_a2
+harpy_head_a3
+ELF_M_NKD_Head_B
 
 Maybe fit for smaller races - 
 GOB__CHD (goblin children)
 HEL_CHD_NKD_Head_Shadowheart
+
+
+
+clipping DO NOT USE!!! - 
+HEL_F_NKD_Elder_Head_A (ears)
+
+addded the golden kracks tattoo for nightsong as default
+Viconia head
+
+missing heads - halsin 
