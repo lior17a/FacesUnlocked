@@ -19,6 +19,13 @@
                     <attribute id="V2" type="float" value="0.036499023"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Head_0c10926e-6131-7887-89fb-84cce015d01e"/>
+                    <attribute id="U1" type="float" value="0.14660645"/>
+                    <attribute id="U2" type="float" value="0.1829834"/>
+                    <attribute id="V1" type="float" value="0.073364258"/>
+                    <attribute id="V2" type="float" value="0.10974121"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="0_Head_1145850b-8446-cc76-2833-a84b4fae4cd5"/>
                     <attribute id="U1" type="float" value="0.69592285"/>
                     <attribute id="U2" type="float" value="0.7322998"/>
@@ -52,6 +59,13 @@
                     <attribute id="U2" type="float" value="0.073120117"/>
                     <attribute id="V1" type="float" value="0.00012207031"/>
                     <attribute id="V2" type="float" value="0.036499023"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Head_2507c10d-f320-ebee-8044-7bc0edd0ad54"/>
+                    <attribute id="U1" type="float" value="0.32971191"/>
+                    <attribute id="U2" type="float" value="0.36608887"/>
+                    <attribute id="V1" type="float" value="0.073364258"/>
+                    <attribute id="V2" type="float" value="0.10974121"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="0_Head_3384cea7-ecae-48d0-e630-b00cc4133521"/>
@@ -131,6 +145,13 @@
                     <attribute id="V2" type="float" value="0.036499023"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Head_8f2fff58-42ca-d2ee-ecd4-fea4f27ba6b7"/>
+                    <attribute id="U1" type="float" value="0.10998535"/>
+                    <attribute id="U2" type="float" value="0.1463623"/>
+                    <attribute id="V1" type="float" value="0.073364258"/>
+                    <attribute id="V2" type="float" value="0.10974121"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="0_Head_925e51a1-4f87-cbac-e9f0-922ff50f7f8d"/>
                     <attribute id="U1" type="float" value="0.54943848"/>
                     <attribute id="U2" type="float" value="0.58581543"/>
@@ -145,11 +166,25 @@
                     <attribute id="V2" type="float" value="0.036499023"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Head_9b559746-d918-5b35-2812-d4904bca477e"/>
+                    <attribute id="U1" type="float" value="0.21984863"/>
+                    <attribute id="U2" type="float" value="0.25622559"/>
+                    <attribute id="V1" type="float" value="0.073364258"/>
+                    <attribute id="V2" type="float" value="0.10974121"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="0_Head_9fc39386-0537-517a-0ed0-70a6eaf9d861"/>
                     <attribute id="U1" type="float" value="0.21984863"/>
                     <attribute id="U2" type="float" value="0.25622559"/>
                     <attribute id="V1" type="float" value="0.00012207031"/>
                     <attribute id="V2" type="float" value="0.036499023"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Head_b3189903-d60b-9572-e4df-eea163619ffd"/>
+                    <attribute id="U1" type="float" value="0.36633301"/>
+                    <attribute id="U2" type="float" value="0.40270996"/>
+                    <attribute id="V1" type="float" value="0.073364258"/>
+                    <attribute id="V2" type="float" value="0.10974121"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="0_Head_b7737023-9e5d-db04-e62e-a4fabf319ef2"/>
@@ -229,6 +264,20 @@
                     <attribute id="V2" type="float" value="0.073120117"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Head_fca5f684-8dcb-6afe-418f-b4cf456fd416"/>
+                    <attribute id="U1" type="float" value="0.25646973"/>
+                    <attribute id="U2" type="float" value="0.29284668"/>
+                    <attribute id="V1" type="float" value="0.073364258"/>
+                    <attribute id="V2" type="float" value="0.10974121"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Head_fe9cbbc8-47ea-fa79-f29c-4a935e662e4f"/>
+                    <attribute id="U1" type="float" value="0.18322754"/>
+                    <attribute id="U2" type="float" value="0.21960449"/>
+                    <attribute id="V1" type="float" value="0.073364258"/>
+                    <attribute id="V2" type="float" value="0.10974121"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="1_Head_21df2249-60c9-9d6e-fb99-8a37634d402a"/>
                     <attribute id="U1" type="float" value="0.00012207031"/>
                     <attribute id="U2" type="float" value="0.036499023"/>
@@ -269,6 +318,13 @@
                     <attribute id="U2" type="float" value="0.40270996"/>
                     <attribute id="V1" type="float" value="0.036743164"/>
                     <attribute id="V2" type="float" value="0.073120117"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="1_Head_7cc22400-a842-4c7a-f9af-99118be80d26"/>
+                    <attribute id="U1" type="float" value="0.073364258"/>
+                    <attribute id="U2" type="float" value="0.10974121"/>
+                    <attribute id="V1" type="float" value="0.073364258"/>
+                    <attribute id="V2" type="float" value="0.10974121"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="1_Head_80481941-ae0c-03f2-5db0-255c65c4fed4"/>
@@ -374,6 +430,13 @@
                     <attribute id="U2" type="float" value="0.84216309"/>
                     <attribute id="V1" type="float" value="0.036743164"/>
                     <attribute id="V2" type="float" value="0.073120117"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="1_Head_d280e021-1cab-31e2-a347-0c609de586e7"/>
+                    <attribute id="U1" type="float" value="0.29309082"/>
+                    <attribute id="U2" type="float" value="0.32946777"/>
+                    <attribute id="V1" type="float" value="0.073364258"/>
+                    <attribute id="V2" type="float" value="0.10974121"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="1_Head_d3905dd1-d1fb-d315-0c84-5f877af24354"/>

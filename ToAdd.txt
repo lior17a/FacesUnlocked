@@ -55,27 +55,49 @@ Mayrina - HUM_F_NKD_Head_Mayrina
 Abdirak - HUM_M_NKD_Head_Abdirak
 Larroakan - HUM_M_NKD_Head_Lorroakan
 Florrick - ELF_F_NKD_Head_Florrick
-	
-Working on - 
 Viconia - ELF_F_NKD_Head_Viconia
 GTY_M_NKD_Elder_Head_A
 HUM_M_NKD_Head_Oscar
 HUM_M_NKD_Head_Rath
 
 
+Working on - 
+Gortash male strong hum_ms_nkd_head_gortash
+Mystra human - HUM_f_nkd_head_mystra
+hum_m_nkd_head_wyll_devil
+HUM_M_NKD_Head_Ravengard
+tif_m_nkd_elder_head_a
+tif_m_nkd_elder_head_b
+TIF_F_NKD_Elder_Head_A
+TIF_MS_NKD_Head_Rolan_Remap
+TIF_MS_NKD_Head_Zevlor_Remap
+
+
+
+
+
+
+
 Not done - 
 Karlach with big scar - TIF_FS_NKD_Head_Karlach_Scar
 
-
-
-
-
+TIF_MS_NKD_Elder_Head_A_Remap
+TIF_MS_NKD_Elder_Head_B_Remap
+HUM_MS_NKD_Elder_Head_B_Remap
+HUM_MS_NKD_Head_Abdirak_Remap
+HUM_MS_NKD_Head_Aradin_Remap
+HUM_MS_NKD_Head_Oscar_Remap
+HUM_MS_NKD_Head_Raphael_Remap
+HUM_MS_NKD_Head_Rath_Remap
+HUM_MS_NKD_Head_Ravengard_Remap
 HUM_M_NKD_Head_Elminster
-HUM_M_NKD_Head_Ravengard
-Harpy_head_a1
-Herpy_Head_a2
-harpy_head_a3
-ELF_M_NKD_Head_B
+Gno_F_nkd_head_e_damaged
+Dryde_d_head_A
+dryde_f_head_a
+Djinni_head_a
+keyart_
+
+
 
 Maybe fit for smaller races - 
 GOB__CHD (goblin children)
@@ -85,8 +107,13 @@ HEL_CHD_NKD_Head_Shadowheart
 
 clipping DO NOT USE!!! - 
 HEL_F_NKD_Elder_Head_A (ears)
-
-addded the golden kracks tattoo for nightsong as default
-Viconia head
-
-missing heads - halsin 
+Harpy_head_a1
+Herpy_Head_a2
+harpy_head_a3
+hum_mc_nkd_necromancer_head
+cambion_m_nkd_head_raphael
+Cambion_m_nkd_head_incubus
+Cambion_m_nkd_head_a
+CAMBION_F_NKD_Head_Succubus
+NMare_hum_f_nurse_a_head
+dgb_f_nkd_head_a
