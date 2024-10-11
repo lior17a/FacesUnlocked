@@ -1,22 +1,38 @@
 # FacesUnlocked
-Adds Origin and verious other characters faces to the character creation
+Mod.io versions - 
+PC - 2.0.0.30
+Console - 2.0.0.19 - cross races heads not yet added 
+Nexus verion - 2.0.0.29
 
-Mod.io Description - 
 
-Adds the faces of various in game characters to the character creator. 
+Nexus Description - 
+If you like the mod, please consider endorsing it so more people will see it
 
-origins and companions - 
+Adds a total of 30 in game hair options to the character creator.
+Most of the models are available for all races.
 
-Astarion, Laezel, Gale, Wyll, Shadowheart, Jaheira, Minsc, Minthara and Halsin.
+Included hair styles -
+All of the companions - Shadowheart (3 options), Jaheira, Karlach, Halsin, Minthara, Astarion, Gale, Laezel (2 options)
 
-Others - 
+Other characters - Isobel, Orin, (with and without jewels), Mystra, Umberlees priestess, Lucretious, Gortash, Mizora, Cambion (2 options), Harpy (4 options), Priestess Gut, Sazza, Goblins (3 options)
 
-Isobel, Aylin, Gortash, Ketheric, Mizora, Rolan, Zevlor, Netti, Voss, Vlakidm Orpheus, Barcus, Wulbern, Elder Gnome, Deva
+2 of shadowhearts, Cambion hair styles are only available for standard female bodies
+Karlachs hair style is available for standard and strong female bodies and standard male bodies
+Mizora/Nere hair style is available for standard male and female bodies
+Halsins and Cambion v2 hair styles are only available for standard and strong male bodies
 
- 
+If there are any more hair styles you would like to see in this mod let me know 
 
-Astarion, Jaheira and Ketheric look a bit younger, had to remove some wrinkles to match their neck colors to the rest of the body 
+Installation - 
+opt 1 - Installs with BG3MM
+opt 2 - Unpack the zip file into your mod folder (usually) - %localappdata%\Larian Studios\Baldur's Gate 3\Mods
+opt 3 - This mod is also available through the in game mod manager and on mod.io - Be aware that Nexus and mod.io versions are not the same. mod.io version is missing some of the models that i could not upload via the toolkit and some of the models UUIDs are different
 
- 
 
-Im working on adding Karlach and a few more characters, coming soon!
+
+If you like my mods please consider supporting me on ko-fi
+
+
+
+
+Some of the pictures include head models enabled by my other mod - FacesUnlocked Check it out!

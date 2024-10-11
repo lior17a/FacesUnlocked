@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3b034ae3-d260-4a73-b10f-9e954489d19a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="02facef2-a0f1-4d7f-8cb6-dcae8d02c039" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Florrick" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="b9909bdc-a881-4f85-383b-c987aa4275f7" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b30bd693-a38b-4ee3-aa99-5a9f4ac7e077" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Viconia" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="21df2249-60c9-9d6e-fb99-8a37634d402a" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="aa271b53-1991-488a-881d-d150c60a1f2a" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Dryad" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="2fd32d09-6096-0f37-1caa-d75e5176a186" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c21b022f-dfb1-4aaf-98a8-3f1e9c83a6fe" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Dryad No Glow" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="5cdb8c56-8e26-310f-d42a-c8ebf4847de2" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

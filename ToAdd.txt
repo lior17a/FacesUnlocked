@@ -59,9 +59,6 @@ Viconia - ELF_F_NKD_Head_Viconia
 GTY_M_NKD_Elder_Head_A
 HUM_M_NKD_Head_Oscar
 HUM_M_NKD_Head_Rath
-
-
-Working on - 
 Gortash male strong hum_ms_nkd_head_gortash
 Mystra human - HUM_f_nkd_head_mystra
 hum_m_nkd_head_wyll_devil
@@ -72,11 +69,20 @@ TIF_F_NKD_Elder_Head_A
 TIF_MS_NKD_Head_Rolan_Remap
 TIF_MS_NKD_Head_Zevlor_Remap
 
+Working on - 
+
+Elminster - HUM_M_NKD_Head_Elminster
+HUM_MS_NKD_Head_Aradin_Remap
+Oloric - hum_m_nkd_head_e
+HUM_MS_NKD_Head_Abdirak_Remap
+HUM_MS_NKD_Head_Raphael_Remap
+HUM_MS_NKD_Head_Oscar_Remap
+3 female gnome variations
 
 
-
-
-
+-
+-
+-
 
 Not done - 
 Karlach with big scar - TIF_FS_NKD_Head_Karlach_Scar
@@ -84,18 +90,15 @@ Karlach with big scar - TIF_FS_NKD_Head_Karlach_Scar
 TIF_MS_NKD_Elder_Head_A_Remap
 TIF_MS_NKD_Elder_Head_B_Remap
 HUM_MS_NKD_Elder_Head_B_Remap
-HUM_MS_NKD_Head_Abdirak_Remap
-HUM_MS_NKD_Head_Aradin_Remap
-HUM_MS_NKD_Head_Oscar_Remap
-HUM_MS_NKD_Head_Raphael_Remap
 HUM_MS_NKD_Head_Rath_Remap
 HUM_MS_NKD_Head_Ravengard_Remap
-HUM_M_NKD_Head_Elminster
-Gno_F_nkd_head_e_damaged
+
+
 Dryde_d_head_A
-dryde_f_head_a
+dryad_f_head_a
 Djinni_head_a
 keyart_
+
 
 
 
@@ -117,3 +120,4 @@ Cambion_m_nkd_head_a
 CAMBION_F_NKD_Head_Succubus
 NMare_hum_f_nurse_a_head
 dgb_f_nkd_head_a
+Gno_F_nkd_head_e_damaged

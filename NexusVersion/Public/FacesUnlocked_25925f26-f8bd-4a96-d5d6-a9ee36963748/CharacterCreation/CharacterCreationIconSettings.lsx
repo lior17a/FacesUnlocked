@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="CharacterCreationIconSettings">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationIconSetting">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="RootTemplate" type="guid" value="b9909bdc-a881-4f85-383b-c987aa4275f7"/>
+                    <attribute id="UUID" type="guid" value="02facef2-a0f1-4d7f-8cb6-dcae8d02c039"/>
+                    <children>
+                        <node id="SlotNames">
+                            <children>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="Head"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationIconSetting">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="RootTemplate" type="guid" value="21df2249-60c9-9d6e-fb99-8a37634d402a"/>
+                    <attribute id="UUID" type="guid" value="b30bd693-a38b-4ee3-aa99-5a9f4ac7e077"/>
+                    <children>
+                        <node id="SlotNames">
+                            <children>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="Head"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationIconSetting">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="RootTemplate" type="guid" value="2fd32d09-6096-0f37-1caa-d75e5176a186"/>
+                    <attribute id="UUID" type="guid" value="aa271b53-1991-488a-881d-d150c60a1f2a"/>
+                    <children>
+                        <node id="SlotNames">
+                            <children>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="Head"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationIconSetting">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="RootTemplate" type="guid" value="5cdb8c56-8e26-310f-d42a-c8ebf4847de2"/>
+                    <attribute id="UUID" type="guid" value="c21b022f-dfb1-4aaf-98a8-3f1e9c83a6fe"/>
+                    <children>
+                        <node id="SlotNames">
+                            <children>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="Head"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
